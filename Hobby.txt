@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> My Hobby </title>
+</head>
+<body Background="hh.jpg">
+<center>
+<ul> <B> <U> Photography </B> </U> </ul>
+<img src="mm.jpeg" width="200" lenght="200">
+<br> I am a travel photographer. When i go out for a travel i use to took photo's and collect them as my memory. Sometime's
+i sell some photo's to earn some money. Sometime i am doing freelancing of photography. I have leran photography from
+Pathshala (South Asian Media Instituted). Now I am a jounior photographer of Pathshala.<p> If you want to see My photography <a href="Image.html"> Click Here </a> </p> </br>
+<ul> <B> <U> Traveling </B> </U> </ul>
+<img src="Photo1.jpg" width="200" lenght="200">
+<br> As i have say i am a travel photographer,travling is also my hobby. Whenever i go out for a travel I become very much
+excited. I planed everything before going out from the house. I tooj my inportent things like phone,camera,lens,battery etc.
+I alwayes love to travel in the night.</br>
+<ul> <B> <U> Reading Book </B> </U> </ul>
+<img src="book.jpg" width="200" lenght="200">
+<br> I love reading book.I read some of the detective books.I love detective story's.Whenever i read them i feel i am detective.
+There some character that i love them so much and they are sherlock holmes,byomkesh bakshi,roy chowdhury,james bond etc.
+</body>
+</html>

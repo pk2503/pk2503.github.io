@@ -1,0 +1,56 @@
+<html>
+<head>
+<title> More Imformation of Amit Hassan </title>
+</head>
+<body Background="Iback.jpg">
+<Center><img src="pic.jpg" width=200 length=200" alt="Amit Hassan" title="Amit Hassan"/>
+<br></br>
+<br> <B> <U> My Name : AMIT HASSAN </br> </B> </U>
+<br> <B> <U> My Father Name : ATIAR RAHMAN </br> </B> </U>
+<br> <B> <U> My Mother Name : JESMIN ARA </br> </B> </U>
+<br> <B> <U> My home Town : Chuadanga,Khulna </br> </B> </U>
+<br> <B> <U> My Permanent Address : Mirpur-2,Dhaka </br> </B> </U>
+<br> <B> <U> My date of birth : 25-03-1997 </br> </B> </U>
+<br> <B> <U> My Religion : Islam(sunni) </br> </B> </U>
+<br> <B> <U> My Nationality : Bangladeshi </br> </B> </U>
+<br> <B> <U> My Meritial Status : Single </br> </B> </U>
+<br> <B> <U> My Phone Number : 019******** </br> </B> </U>
+<br> <B> <U> My Email Address : Amithassan090@gmail.com </br> </B> </U>
+<br><U><B> My Qualification </B></U></br>
+<br></br>
+<table border="3">
+<th> Examination </th>
+<th> Board </th>
+<th> Year </th>
+<th> Acadamic </th>
+<tr>
+<td> PSC </td>
+<td> Dhaka </td>
+<td> 2010 </td>
+<td> Ismalee Adarsha High School </td>
+</tr>
+<tr>
+<td> JSC </td>
+<td> Dhaka </td>
+<td> 2013 </td>
+<td> Ismalee Adarsha High School </td>
+</tr>
+<tr>
+<td> SSC </td>
+<td> Dhaka </td>
+<td> 2015 </td>
+<td> Ismalee Adarsha High School </td>
+</tr>
+<tr>
+<td> HSC </td>
+<td> Dhaka </td>
+<td> 2018 </td>
+<td> Rupnogor Govnt Model School & College </td>
+</tr>
+<td> BSC </td>
+<td> N/A </td>
+<td> Continue </td>
+<td> United International University </td>
+</tr>
+</table>
+<p> Want to know My hobby's <a href="Hobby.html"> Click Here </a> </p>
